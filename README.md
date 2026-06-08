@@ -1,5 +1,21 @@
-## Hi there 👋
+# Hi, I'm Justin Groves
 
+Computer Science & Engineering graduate from Santa Clara University.
+
+## Technical Skills
+- Python
+- C++
+- C
+- C#
+- SQL
+- Git
+
+## Projects
+- Daily Digest Application
+- Additional projects coming soon
+
+## Contact
+LinkedIn: linkedin.com/in/justinchristophergroves
 <!--
 **justingroves007/justingroves007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
